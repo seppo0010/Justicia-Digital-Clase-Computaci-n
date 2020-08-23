@@ -1,5 +1,7 @@
 # Justicia Digital - Clases Computación
 
+[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
 Qué es un algoritmo. Un algoritmo es la serie de pasos que hay que seguir para resolver un problema. Las computadoras no son muy inteligentes y sólo van a hacer lo que le digamos, entonces cuando necesitamos que resuelva un problema va a necesitar saber como manejar todas las posibles variedades de ese problema. Por ejemplo si queremos hacer fideos tenemos que poner agua en una olla, poner la olla sobre la hornalla, prender la hornalla, esperar a que hierva el agua, poner los fideos en el agua, esperar un tiempo, apagar la hornalla, colar los fideos. Ahora si esto lo automatizamos pueden pasar cosas inesperadas. ¿Qué pasa si no hay agua? ¿O si la hornalla que queremos usar la estamos usando para otra cosa? En esos caso un humano variaría levemente las instrucciones para poder hacer los fideos de otra forma por ejemplo con agua mineral, o usando otra hornalla. La computadora no tiene esa capacidad, salvo que se la hayamos dado cuando escribimos las instrucciones.
 
 Estas instrucciones les programadores la escriben en lenguajes de programación como C o JavaScript. A veces después de eso el código se "compila" en otro lenguaje, en general un lenguaje máquina. El programa compilado es difícil de entender por humanos, pero más fácil de entender por computadoras, sería como traducir la versión legible por los primeros a una legible por las segundas.
